@@ -1,4 +1,4 @@
-# Actix Web Microservice Boilerplate
+# Actix Web Rust Microservice
 
 Production-ready Actix Web microservice starter for Rust APIs.
 
