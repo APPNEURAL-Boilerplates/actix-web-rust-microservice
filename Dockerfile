@@ -19,7 +19,7 @@ RUN apt-get update \
 
 WORKDIR /app
 
-COPY --from=builder /app/target/release/actix-web-rust-microservice /usr/local/bin/microservice
+COPY --from=builder /app/target/release/actix-web-rust-microservice-boilerplate /usr/local/bin/microservice
 
 ENV HOST=0.0.0.0
 ENV PORT=8080

@@ -201,7 +201,7 @@ dependencies = [
 ]
 
 [[package]]
-name = "actix-web-rust-microservice"
+name = "actix-web-rust-microservice-boilerplate"
 version = "0.1.0"
 dependencies = [
  "actix-cors",
